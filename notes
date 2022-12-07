@@ -1,0 +1,17 @@
+SERVER CREATION 
+
+BASIC COMMANDS
+
+1)Creating packages.json - npm init
+2)install expess - npm i express
+
+BASIC STEPS
+
+1. creating a folder
+2. creating a package.json file
+3. install express
+4.creating index .js file
+5. import express inside the index.js
+6. creating an app using express
+7. setup port number
+8.resolving HTTP requests
